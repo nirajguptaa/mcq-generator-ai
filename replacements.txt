@@ -1,2 +1,2 @@
-literal:***REMOVED***
-***REMOVED***
+literal:sk-your-old-api-key
+replace:REMOVED
