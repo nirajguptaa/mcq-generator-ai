@@ -31,7 +31,7 @@ The **MCQ Generator** is a Python-based tool that automatically generates multip
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/nirajguptaa/mcq-generator-ai/tree/main>
 cd mcqgen
 
 ```
