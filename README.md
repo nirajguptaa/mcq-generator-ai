@@ -38,12 +38,7 @@ cd mcqgen
 ---
 
 
-2. Setup Environment
-```bash
-conda create -p ./env python=3.8 -y
-conda activate ./env
 
-```
 2. Setup Environment
 ```bash
 conda create -p ./env python=3.8 -y
